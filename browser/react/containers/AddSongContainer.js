@@ -59,7 +59,7 @@ class AddSongContainer extends React.Component {
         songs={songs}
         error={error}
         handleChange={this.handleChange}
-        handleSubmit={this.handleSubmit}/>
+        handleSubmit={this.handleSubmit} />
     );
   }
 }
